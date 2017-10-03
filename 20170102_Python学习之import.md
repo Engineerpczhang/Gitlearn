@@ -12,5 +12,5 @@ from import语句
 from关键字后之后是模块名称，import关键字和一个*号：from random import *
 使用from形式调用，函数前不需要加模块.前缀，⚠️使用完整名称会让代码更可读，所以最好使用普通形式的import
 Python 学习真的很有趣
-##一定要坚持学习下去
+## 一定要坚持学习下去
 
